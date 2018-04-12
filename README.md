@@ -31,6 +31,7 @@ Ejemplo de una API REST utilizando [GO] 1.10 con [gin] como router y [mgo] como 
   ]
 }
 ```
+* Documentacion en progreso.
 * Validaciones en progreso.
 * Estructura de archivos en progreso.
 
